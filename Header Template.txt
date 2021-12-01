@@ -6,44 +6,43 @@
    |   |  |    ___||       ||    ___||   |___ |       |  |   |  |    ___|
    |   |  |   |___ | ||_|| ||   |    |       ||   _   |  |   |  |   |___ 
    |___|  |_______||_|   |_||___|    |_______||__| |__|  |___|  |_______|
- 
- Name: 		C coding header template 
- Date: 		30th November 2021
- Author:	Flavio L Puhl Jr <flavio_puhl@hotmail.com> 
- GIT:		https://github.com/flaviopuhl/Header-Template
- About: 	Header template for codes in general
 
- 
+ Name:     C coding header template 
+ Date:     30th November 2021
+ Author:   Flavio L Puhl Jr <flavio_puhl@hotmail.com> 
+ GIT:      https://github.com/flaviopuhl/Header-Template
+ About:    Header template for codes in general
+
 Update comments                                      
 +-----------------------------------------------------+------------------+---------------+
-|				Feature added			              |     Version      |      Date     |
+|               Feature added                         |     Version      |      Date     |
 +-----------------------------------------------------+------------------+---------------+
 | Initial Release                                     |      1.0.0       |   30/NOV/21   |
-|							  						  |					 |               |
-|							  						  |					 |               |
+|                                                     |                  |               |
+|                                                     |                  |               |
 +-----------------------------------------------------+------------------+---------------+
 
- 
+
 Library versions                                       
 +-----------------------------------------+------------------+-------------------------- +
-|				Library					  |     Version      |          Creator	         |
+|       Library                           |     Version      |          Creator          |
 +-----------------------------------------+------------------+-------------------------- +
-| #include "esp_camera.h" 				  |      2.4.*       |     ESP8266 Community     |
-| #include "Arduino.h"    				  |      2.4.*       |     ESP8266 Community     |     
-| #include "FS.h"         				  |      2.4.*       |     ESP8266 Community     |  
-| #include "SD_MMC.h"  				      |      2.4.*       |     ESP8266 Community     |
-| #include "soc/soc.h"    				  |      2.4.*       |     ESP8266 Community     |  
-| #include "soc/rtc_cntl_reg.h"  		  |      2.4.*       |     ESP8266 Community     |    
-| #include "driver/rtc_io.h"  			  |      2.4.*       |     ESP8266 Community     |
+| #include "esp_camera.h"                 |      2.4.*       |     ESP8266 Community     |
+| #include "Arduino.h"                    |      2.4.*       |     ESP8266 Community     |
+| #include "FS.h"                         |      2.4.*       |     ESP8266 Community     |
+| #include "SD_MMC.h"                     |      2.4.*       |     ESP8266 Community     |
+| #include "soc/soc.h"                    |      2.4.*       |     ESP8266 Community     |
+| #include "soc/rtc_cntl_reg.h"           |      2.4.*       |     ESP8266 Community     |
+| #include "driver/rtc_io.h"              |      2.4.*       |     ESP8266 Community     |
 +-----------------------------------------+------------------+-------------------------- +
 
 Upload settings 
 +----------------------------------------------------------------------------------------+
-| IDE: 	Arduino IDE																		 |
-| Board: AI-Thinker ESP32 CAM												         	 |
-| CPU freq:	240MHz																		 |	
-| Flash Freq: 80MHz																		 |	
-| Flash Mode: QIO																		 |			
+| IDE:  Arduino IDE                                                                      |
+| Board: AI-Thinker ESP32 CAM                                                            |
+| CPU freq: 240MHz                                                                       |
+| Flash Freq: 80MHz                                                                      |
+| Flash Mode: QIO                                                                        |
 +----------------------------------------------------------------------------------------+
 
 */
